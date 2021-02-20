@@ -1,0 +1,2 @@
+/* msquic.i */
+%module msquic
